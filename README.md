@@ -6,7 +6,7 @@
 
 ### Prerequisites
 
--Python 3.5 or higher
+-Python 3.5 or higher</br>
 -Tensorflow 2.0 or higher
 
 ## Insights into Data
