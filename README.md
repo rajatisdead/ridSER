@@ -14,7 +14,7 @@
 
 
 ### Log-Mel Spectrograms
-![imag of spec](https://github.com/rajatisdead/ridSER/download(1).png?raw=true)
+![imag of spec](https://github.com/rajatisdead/ridSER/download (1).png?raw=true)
 
 
 
