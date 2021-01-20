@@ -6,6 +6,16 @@
 
 
 
+### Prerequisites
+
+-Python 3.5 or higher
+-Tensorflow 2.0 or higher
+
+
+
+### Log-Mel Spectrograms
+![imag of spec](https://github.com/rajatisdead/ridSER/download(1).png?raw=true)
+
 
 
 
